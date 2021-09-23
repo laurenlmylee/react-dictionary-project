@@ -17,7 +17,7 @@ export default function App() {
           target="_blank"
           rel="noopener noreferrer"
           className="footer-link"
-        >Lauren</a>🐧, <a href="https://flamboyant-heisenberg-477fb5.netlify.app/"
+        >Lauren</a>🐧, <a href="https://github.com/laurenlmylee/react-dictionary-project"
         target="_blank"
         rel="noopener noreferrer"
         className="footer-link"
