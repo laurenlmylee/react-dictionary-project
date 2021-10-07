@@ -9,7 +9,7 @@ export default function App() {
          
         </header>
         <main> 
-          <Dictionary/>
+          <Dictionary defaultKeyword="penguin"/>
         </main>
         <footer className="text-center">
           <small>Coded by {" "}
