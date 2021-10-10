@@ -1,6 +1,12 @@
 body{
   background:#efe4da;
   color:#534D4B;
+  
+}
+
+.App {
+  max-width:960px;
+  margin: 0 auto;
 }
 
 .footer-link{
